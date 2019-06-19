@@ -1,7 +1,5 @@
 package main
 
-import kotlin.collections.ArrayList as ArrayList
-
 fun main() {
     val a: List<Int> = listOf(1,4,5,7)
     val b: List<Int> = listOf(3,4,8,10,11)
